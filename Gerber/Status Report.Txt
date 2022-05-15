@@ -1,0 +1,15 @@
+Source PCB Design PCB_B.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32F030F4P6_3.PrjPcb]
+   Generated File[PCB_B-RoundHoles.TXT]
+   Generated File[PCB_B-SlotHoles.TXT]
+   Generated File[PCB_B.LDP]
+   Generated File[PCB_B.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 01:53:14 On 2022/5/15

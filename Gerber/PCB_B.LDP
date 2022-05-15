@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Code\git\STM32F030F4P6\PCB_B.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_b-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_b-slotholes.txt|DrillLayers=gtl,gbl
